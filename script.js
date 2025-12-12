@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         try {
             // IMPORTANT: In a real implementation, replace this with your actual server API
-            // Example API endpoint: https://api.mcsrvstat.us/2/play.bubblesbox.net
+            // Example API endpoint: https://api.mcsrvstat.us/2/play.bubblesbox.org
             
             // For demonstration purposes, we'll use a more consistent simulation
             // that mimics real server behavior instead of completely random numbers
@@ -155,7 +155,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             /* 
             // REAL SERVER IMPLEMENTATION (uncomment and modify for your server)
-            const response = await fetch('https://api.mcsrvstat.us/2/play.bubblesbox.net');
+            const response = await fetch('https://api.mcsrvstat.us/2/play.bubblesbox.org');
             const data = await response.json();
             
             if (data.online) {

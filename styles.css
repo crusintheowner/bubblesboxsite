@@ -167,7 +167,7 @@ img {
 }
 
 .btn-discord {
-    background-color: var(--discord);
+    background-color: #4752c6;
     color: white;
 }
 
@@ -541,6 +541,7 @@ img {
     padding: 2.5rem;
     border-radius: var(--border-radius);
     margin-top: 3rem;
+    background-color: ffff;
 }
 
 .discord-join h3 {
@@ -555,7 +556,7 @@ img {
 
 /* CTA Section */
 .cta {
-    background-color: var(--primary);
+    background-color: var(--dark);
     color: white;
     text-align: center;
     padding: 4rem 0;
